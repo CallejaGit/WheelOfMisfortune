@@ -1,0 +1,8 @@
+break 47
+run
+<
+display pruned[0]
+display pruned[1]
+display pruned[2]
+display pruned[3]
+display
